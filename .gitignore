@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+notas.db
+__pycache__
+/IndirectCommunication/node_modules
