@@ -1,0 +1,10 @@
+{
+  "name": "IndirectCommunication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "tweets": "^0.0.6"
+  }
+}
